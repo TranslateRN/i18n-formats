@@ -1,0 +1,12 @@
+{
+  "greeting": "Welcome, {username}!",
+  "cartSummary": "Your cart contains {numItems, plural, =0 {no items} =1 {one item} other {# items}}.",
+  "orderStatus": "Your order {orderId} is {status}.",
+  "membershipStatus": "Your membership expires on {expiryDate, date, medium}.",
+  "productDetails": "{productName}: {description}",
+  "error": "An error occurred: {errorCode}",
+  "invitation": "You are invited to {eventName} on {eventDate, date, full}.",
+  "notification": "You have {numNotifications, plural, =0 {no notifications} =1 {one notification} other {# notifications}}.",
+  "appointmentReminder": "Your appointment with {doctorName} is on {appointmentDate, date, long}.",
+  "weatherForecast": "Weather forecast for {location}: {forecast}"
+}

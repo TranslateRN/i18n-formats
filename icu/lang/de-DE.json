@@ -1,0 +1,12 @@
+{
+  "greeting": "Willkommen, {username}!",
+  "cartSummary": "Ihr Warenkorb enthält {numItems, plural, =0 {keine Artikel} =1 {einen Artikel} other {# Artikel}}.",
+  "orderStatus": "Ihre Bestellung {orderId} ist {status}.",
+  "membershipStatus": "Ihre Mitgliedschaft läuft ab am {expiryDate, date, medium}.",
+  "productDetails": "{productName}: {description}",
+  "error": "Ein Fehler ist aufgetreten: {errorCode}",
+  "invitation": "Sie sind eingeladen zu {eventName} am {eventDate, date, full}.",
+  "notification": "Sie haben {numNotifications, plural, =0 {keine Benachrichtigungen} =1 {eine Benachrichtigung} other {# Benachrichtigungen}}.",
+  "appointmentReminder": "Ihr Termin mit {doctorName} ist am {appointmentDate, date, long}.",
+  "weatherForecast": "Wettervorhersage für {location}: {forecast}"
+}

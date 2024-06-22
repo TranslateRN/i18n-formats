@@ -1,0 +1,13 @@
+{
+  "greeting": "欢迎, {username}!",
+  "cartSummary": "您的购物车中有{numItems, plural, =0 {没有商品} =1 {一件商品} other {# 件商品}}。",
+  "orderStatus": "您的订单 {orderId} 目前是 {status}。",
+  "membershipStatus": "您的会员资格将于 {expiryDate, date, medium} 到期。",
+  "productDetails": "{productName}: {description}",
+  "error": "发生错误: {errorCode}",
+  "invitation": "您被邀请参加 {eventName} 于 {eventDate, date, full}。",
+  "notification": "您有 {numNotifications, plural, =0 {没有通知} =1 {一条通知} other {# 条通知}}。",
+  "appointmentReminder": "您与 {doctorName} 的预约在 {appointmentDate, date, long}。",
+  "weatherForecast": "{location} 的天气预报: {forecast}"
+}
+
